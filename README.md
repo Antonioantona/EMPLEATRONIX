@@ -4,4 +4,4 @@ muestra graficas de empleados
 
 Aplicación web desplegada:
 
-<https://.streamlit.app/>
+<https://empleatronix-antonio.streamlit.app/>
